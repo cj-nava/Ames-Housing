@@ -1,2 +1,2 @@
 # Ames-Housing
-Kaggle Project for MSDS 6371
+Project for MSDS 6371 - Applied Statistics at SMU
